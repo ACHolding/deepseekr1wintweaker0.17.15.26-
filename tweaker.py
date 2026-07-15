@@ -1,4 +1,4 @@
-cimport tkinter as tk
+import tkinter as tk
 from tkinter import scrolledtext, messagebox
 import subprocess, sys, os, ctypes
 
